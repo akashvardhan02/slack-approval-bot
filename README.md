@@ -18,7 +18,7 @@ This Slack bot enables an organizational approval system within Slack. Users can
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/akashvardhan02/slack-approval-bot.git
+   git clone https://github.com/akashvardhan02/slack-approval-bot
    cd slack-approval-bot
    ```
 
