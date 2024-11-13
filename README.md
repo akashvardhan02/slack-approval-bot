@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your Slack approval bot project:
 
-```markdown
 # Slack Approval Bot
 
 This Slack bot enables an organizational approval system within Slack. Users can request approvals from designated approvers, and approvers can approve or reject these requests directly in Slack. The requester is notified of the outcome.
